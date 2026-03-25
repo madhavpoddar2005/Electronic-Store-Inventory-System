@@ -1,0 +1,197 @@
+item_id,product_name,brand,category,price,stock
+101,Noise Mobiles 101,Noise,Mobiles,24592,6
+102,Apple Mobiles 102,Apple,Mobiles,21395,42
+103,Dell Mobiles 103,Dell,Mobiles,40495,37
+104,Noise Mobiles 104,Noise,Mobiles,64987,19
+105,Xiaomi Mobiles 105,Xiaomi,Mobiles,65392,26
+106,Apple Mobiles 106,Apple,Mobiles,22156,29
+107,HP Mobiles 107,HP,Mobiles,15695,34
+108,HP Mobiles 108,HP,Mobiles,57400,41
+109,Noise Mobiles 109,Noise,Mobiles,39871,23
+110,HP Mobiles 110,HP,Mobiles,69429,45
+111,Dell Mobiles 111,Dell,Mobiles,44993,49
+112,Nikon Mobiles 112,Nikon,Mobiles,42087,15
+113,Nikon Mobiles 113,Nikon,Mobiles,38785,48
+114,Lenovo Mobiles 114,Lenovo,Mobiles,62581,22
+115,Lenovo Mobiles 115,Lenovo,Mobiles,37869,46
+116,Xiaomi Mobiles 116,Xiaomi,Mobiles,44718,13
+117,HP Mobiles 117,HP,Mobiles,66155,42
+118,Nikon Mobiles 118,Nikon,Mobiles,74686,10
+119,Xiaomi Mobiles 119,Xiaomi,Mobiles,65333,43
+120,Canon Mobiles 120,Canon,Mobiles,79352,21
+121,Noise Mobiles 121,Noise,Mobiles,44973,46
+122,Xiaomi Mobiles 122,Xiaomi,Mobiles,69470,5
+123,Apple Mobiles 123,Apple,Mobiles,49117,45
+124,Nikon Mobiles 124,Nikon,Mobiles,79514,5
+125,Lenovo Mobiles 125,Lenovo,Mobiles,50306,20
+126,Apple Mobiles 126,Apple,Mobiles,73699,9
+127,Nikon Mobiles 127,Nikon,Mobiles,31643,21
+128,Dell Mobiles 128,Dell,Mobiles,50857,30
+201,Apple Tablets 201,Apple,Tablets,31246,19
+202,Nikon Tablets 202,Nikon,Tablets,30080,19
+203,Samsung Tablets 203,Samsung,Tablets,30003,9
+204,Dell Tablets 204,Dell,Tablets,33250,36
+205,Boat Tablets 205,Boat,Tablets,52762,35
+206,Apple Tablets 206,Apple,Tablets,21352,32
+207,Samsung Tablets 207,Samsung,Tablets,59129,11
+208,Apple Tablets 208,Apple,Tablets,31295,17
+209,Sony Tablets 209,Sony,Tablets,27025,22
+210,Nikon Tablets 210,Nikon,Tablets,21416,8
+211,Apple Tablets 211,Apple,Tablets,64385,20
+212,Dell Tablets 212,Dell,Tablets,41282,8
+213,HP Tablets 213,HP,Tablets,66384,34
+214,Nikon Tablets 214,Nikon,Tablets,58376,36
+215,Samsung Tablets 215,Samsung,Tablets,52957,39
+216,Samsung Tablets 216,Samsung,Tablets,53284,35
+217,Nikon Tablets 217,Nikon,Tablets,20250,16
+218,Dell Tablets 218,Dell,Tablets,41461,12
+219,Samsung Tablets 219,Samsung,Tablets,55591,10
+220,Nikon Tablets 220,Nikon,Tablets,35733,21
+221,Dell Tablets 221,Dell,Tablets,32407,30
+222,Canon Tablets 222,Canon,Tablets,35720,9
+223,Apple Tablets 223,Apple,Tablets,19801,39
+224,Lenovo Tablets 224,Lenovo,Tablets,19508,20
+225,Nikon Tablets 225,Nikon,Tablets,61107,24
+226,Noise Tablets 226,Noise,Tablets,68549,40
+227,Xiaomi Tablets 227,Xiaomi,Tablets,32332,12
+228,HP Tablets 228,HP,Tablets,33465,18
+301,Noise Laptops 301,Noise,Laptops,74600,19
+302,Noise Laptops 302,Noise,Laptops,95518,29
+303,Xiaomi Laptops 303,Xiaomi,Laptops,123507,11
+304,Sony Laptops 304,Sony,Laptops,113519,3
+305,Samsung Laptops 305,Samsung,Laptops,149392,14
+306,Xiaomi Laptops 306,Xiaomi,Laptops,45482,12
+307,Noise Laptops 307,Noise,Laptops,72706,24
+308,Xiaomi Laptops 308,Xiaomi,Laptops,71029,30
+309,Xiaomi Laptops 309,Xiaomi,Laptops,136542,13
+310,Xiaomi Laptops 310,Xiaomi,Laptops,143202,25
+311,Dell Laptops 311,Dell,Laptops,66158,29
+312,Dell Laptops 312,Dell,Laptops,43101,24
+313,Apple Laptops 313,Apple,Laptops,141361,11
+314,Nikon Laptops 314,Nikon,Laptops,83404,3
+315,HP Laptops 315,HP,Laptops,45014,6
+316,Lenovo Laptops 316,Lenovo,Laptops,97199,22
+317,Dell Laptops 317,Dell,Laptops,73386,4
+318,Nikon Laptops 318,Nikon,Laptops,130027,26
+319,Sony Laptops 319,Sony,Laptops,49171,24
+320,Apple Laptops 320,Apple,Laptops,134339,12
+321,Sony Laptops 321,Sony,Laptops,131384,12
+322,Noise Laptops 322,Noise,Laptops,89695,24
+323,Nikon Laptops 323,Nikon,Laptops,149278,3
+324,Boat Laptops 324,Boat,Laptops,119516,23
+325,Noise Laptops 325,Noise,Laptops,68010,19
+326,Apple Laptops 326,Apple,Laptops,77196,19
+327,Dell Laptops 327,Dell,Laptops,128184,12
+328,Samsung Laptops 328,Samsung,Laptops,72092,18
+401,Noise Accessories 401,Noise,Accessories,4915,34
+402,Sony Accessories 402,Sony,Accessories,2198,28
+403,Sony Accessories 403,Sony,Accessories,1992,32
+404,Nikon Accessories 404,Nikon,Accessories,2241,25
+405,Canon Accessories 405,Canon,Accessories,4551,81
+406,Boat Accessories 406,Boat,Accessories,4335,64
+407,Canon Accessories 407,Canon,Accessories,3886,43
+408,HP Accessories 408,HP,Accessories,4470,72
+409,Canon Accessories 409,Canon,Accessories,834,46
+410,Lenovo Accessories 410,Lenovo,Accessories,2819,79
+411,Xiaomi Accessories 411,Xiaomi,Accessories,2094,59
+412,Dell Accessories 412,Dell,Accessories,726,63
+413,Nikon Accessories 413,Nikon,Accessories,4016,63
+414,Sony Accessories 414,Sony,Accessories,3390,84
+415,Sony Accessories 415,Sony,Accessories,4107,10
+416,Sony Accessories 416,Sony,Accessories,3632,78
+417,Dell Accessories 417,Dell,Accessories,2435,65
+418,Sony Accessories 418,Sony,Accessories,2953,95
+419,Xiaomi Accessories 419,Xiaomi,Accessories,4028,26
+420,Boat Accessories 420,Boat,Accessories,4823,94
+421,Noise Accessories 421,Noise,Accessories,3711,27
+422,Samsung Accessories 422,Samsung,Accessories,2331,58
+423,Canon Accessories 423,Canon,Accessories,2877,53
+424,Sony Accessories 424,Sony,Accessories,2266,20
+425,Nikon Accessories 425,Nikon,Accessories,626,54
+426,Apple Accessories 426,Apple,Accessories,529,13
+427,Samsung Accessories 427,Samsung,Accessories,1448,40
+428,Noise Accessories 428,Noise,Accessories,1137,82
+501,HP Headphones 501,HP,Headphones,13564,28
+502,HP Headphones 502,HP,Headphones,2771,42
+503,Sony Headphones 503,Sony,Headphones,12714,17
+504,HP Headphones 504,HP,Headphones,14931,48
+505,Nikon Headphones 505,Nikon,Headphones,8018,47
+506,Sony Headphones 506,Sony,Headphones,14473,36
+507,Xiaomi Headphones 507,Xiaomi,Headphones,8135,16
+508,Sony Headphones 508,Sony,Headphones,14528,51
+509,HP Headphones 509,HP,Headphones,8385,20
+510,Samsung Headphones 510,Samsung,Headphones,9098,59
+511,Lenovo Headphones 511,Lenovo,Headphones,14071,21
+512,Nikon Headphones 512,Nikon,Headphones,4130,10
+513,Nikon Headphones 513,Nikon,Headphones,13421,20
+514,Samsung Headphones 514,Samsung,Headphones,2524,23
+515,Noise Headphones 515,Noise,Headphones,10528,28
+516,Nikon Headphones 516,Nikon,Headphones,6419,27
+517,Dell Headphones 517,Dell,Headphones,2976,51
+518,Dell Headphones 518,Dell,Headphones,4545,52
+519,Dell Headphones 519,Dell,Headphones,5853,19
+520,Nikon Headphones 520,Nikon,Headphones,3073,22
+521,Noise Headphones 521,Noise,Headphones,13333,36
+522,Canon Headphones 522,Canon,Headphones,8843,33
+523,Canon Headphones 523,Canon,Headphones,2869,57
+524,Boat Headphones 524,Boat,Headphones,11312,48
+525,Apple Headphones 525,Apple,Headphones,5066,12
+526,Canon Headphones 526,Canon,Headphones,8253,24
+527,Dell Headphones 527,Dell,Headphones,11248,18
+528,Dell Headphones 528,Dell,Headphones,3847,40
+601,Canon Smart Watches 601,Canon,Smart Watches,24589,43
+602,HP Smart Watches 602,HP,Smart Watches,25165,23
+603,HP Smart Watches 603,HP,Smart Watches,27815,45
+604,Nikon Smart Watches 604,Nikon,Smart Watches,9366,46
+605,Samsung Smart Watches 605,Samsung,Smart Watches,7436,24
+606,Apple Smart Watches 606,Apple,Smart Watches,17358,49
+607,Canon Smart Watches 607,Canon,Smart Watches,4635,43
+608,Samsung Smart Watches 608,Samsung,Smart Watches,4992,19
+609,Boat Smart Watches 609,Boat,Smart Watches,3318,16
+610,Xiaomi Smart Watches 610,Xiaomi,Smart Watches,21180,32
+611,Lenovo Smart Watches 611,Lenovo,Smart Watches,15380,26
+612,Sony Smart Watches 612,Sony,Smart Watches,24730,36
+613,Apple Smart Watches 613,Apple,Smart Watches,12306,21
+614,Noise Smart Watches 614,Noise,Smart Watches,19779,34
+615,Boat Smart Watches 615,Boat,Smart Watches,26787,36
+616,HP Smart Watches 616,HP,Smart Watches,19996,13
+617,Samsung Smart Watches 617,Samsung,Smart Watches,22644,43
+618,Nikon Smart Watches 618,Nikon,Smart Watches,15369,10
+619,Noise Smart Watches 619,Noise,Smart Watches,29267,14
+620,Canon Smart Watches 620,Canon,Smart Watches,17473,20
+621,Dell Smart Watches 621,Dell,Smart Watches,21640,37
+622,Sony Smart Watches 622,Sony,Smart Watches,13137,37
+623,Boat Smart Watches 623,Boat,Smart Watches,21002,47
+624,Lenovo Smart Watches 624,Lenovo,Smart Watches,12893,40
+625,Dell Smart Watches 625,Dell,Smart Watches,24855,20
+626,Samsung Smart Watches 626,Samsung,Smart Watches,12426,35
+627,Canon Smart Watches 627,Canon,Smart Watches,3213,13
+628,Canon Smart Watches 628,Canon,Smart Watches,5267,38
+701,Noise Cameras 701,Noise,Cameras,70464,4
+702,Noise Cameras 702,Noise,Cameras,51054,12
+703,Boat Cameras 703,Boat,Cameras,47936,9
+704,Apple Cameras 704,Apple,Cameras,196133,5
+705,Samsung Cameras 705,Samsung,Cameras,115032,3
+706,Xiaomi Cameras 706,Xiaomi,Cameras,94014,18
+707,Xiaomi Cameras 707,Xiaomi,Cameras,50701,14
+708,Canon Cameras 708,Canon,Cameras,197222,10
+709,HP Cameras 709,HP,Cameras,173287,7
+710,Noise Cameras 710,Noise,Cameras,141230,10
+711,Canon Cameras 711,Canon,Cameras,57958,9
+712,HP Cameras 712,HP,Cameras,35751,14
+713,HP Cameras 713,HP,Cameras,90324,13
+714,Noise Cameras 714,Noise,Cameras,65855,5
+715,Boat Cameras 715,Boat,Cameras,125646,6
+716,Xiaomi Cameras 716,Xiaomi,Cameras,82637,6
+717,HP Cameras 717,HP,Cameras,156313,11
+718,Xiaomi Cameras 718,Xiaomi,Cameras,89143,14
+719,HP Cameras 719,HP,Cameras,170659,5
+720,Noise Cameras 720,Noise,Cameras,127379,5
+721,Boat Cameras 721,Boat,Cameras,88030,4
+722,Apple Cameras 722,Apple,Cameras,66641,3
+723,Apple Cameras 723,Apple,Cameras,91551,19
+724,Noise Cameras 724,Noise,Cameras,171608,15
+725,Boat Cameras 725,Boat,Cameras,136985,10
+726,Canon Cameras 726,Canon,Cameras,146574,9
+727,Samsung Cameras 727,Samsung,Cameras,134369,10
+728,Noise Cameras 728,Noise,Cameras,85602,2
