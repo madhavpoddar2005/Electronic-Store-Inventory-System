@@ -74,7 +74,7 @@ Real-world business simulation
 Covers inventory + analytics + visualization
 Clean CLI user experience
 Scalable structure
-
+ 
 🛠️ Future Improvements (Optional)
 GUI using Tkinter / PyQt
 Database integration (SQLite/MySQL)
